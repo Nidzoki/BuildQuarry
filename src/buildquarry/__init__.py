@@ -1,0 +1,2 @@
+"""BuildQuarry desktop application."""
+
